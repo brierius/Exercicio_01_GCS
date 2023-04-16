@@ -28,5 +28,7 @@ public class CalculadoraMarco_2023
         System.out.println("A divisão dos números é "+ valorA/valorB);
         System.out.println("A Subtração dos números é " + (valorA - valorB));
         System.out.println("A multiplicação dos números é " + (valorA*valorB));
+        
+        //Teste de Mudança, Commit e Merge
     }
 }
